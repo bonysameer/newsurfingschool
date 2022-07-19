@@ -1,0 +1,109 @@
+body{
+   text-align: center;
+   /*background-color: #09C3DB;*/
+}
+.heading{
+   
+ 
+ background: url("thumb.jpg");  
+   
+}
+img{
+   border-radius: 50%;
+   height: 250px;
+   width: 250px;
+}
+#whale{
+   border-radius: 5px;
+}
+h1{
+   font-size: 100px;
+   color: aliceblue;
+   font-family: 'Rubik Moonrocks', cursive;
+}
+h2{
+   text-align: left;
+   margin: 3cm;
+}
+h3{
+   font-size: 40px;
+   position: relative;
+   bottom: 10px;
+}
+h4{
+   font-size: 40px;
+   position: relative;
+   bottom: 350px;
+}
+h6{
+   font-size: 18px;
+   font-family: 'Edu NSW ACT Foundation', cursi
+}
+.content-part{
+   width: 800px;
+}
+#content{
+   font-size: 40px;
+   color: aliceblue;
+}
+#surfing-school{
+   width: 900px;
+   height: 450px;
+   border-radius: 100px;
+}
+.second-content{
+   width: 750px;
+   position: relative;
+   bottom: 400px;
+   left: 800px;
+}
+.main-content{
+   background-color: #FCF8E8;
+}
+#btn{
+   width: 250px;
+   height: 50px;
+   border-radius: 30px;
+   color: white;
+   background-color: #231955;
+   font-family: 'Comic Neue', cursive;
+}
+ul{
+   list-style-type: none;
+   font-size: 40px;
+   font-weight: bold;
+}
+li{
+   display: inline;
+   color: #495C83;
+}
+#logo-school{
+   height: 80px;
+   width: 80px;
+   position: relative;
+   top: 110px;
+   right: 400px;
+}
+.nav-bar{
+   margin-top: -3cm;
+   font-family: 'Comic Neue', cursive;
+}
+.quotes-image{
+   display: flex;
+   justify-content: space-between;
+   position: relative;
+   bottom: 250px;
+}
+.last-content{
+   padding: 25px 80px 5px;
+   width: 1400px;
+   text-align: center;
+}
+#btn2{
+   width: 150px;
+   height: 30px;
+   border-radius: 20px;
+   color: #FCF8E8;
+   background-color: #231955;
+   font-family: 'Comic Neue', cursive;
+}
